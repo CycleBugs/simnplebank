@@ -1,4 +1,4 @@
-# SImple Bank
+# Simple Bank
 
 
 
