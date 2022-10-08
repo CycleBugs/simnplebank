@@ -1,4 +1,4 @@
-module gitlab.com/lonqhoanq311/simple-bank
+module github.com/CycleBugs/simnplebank
 
 go 1.19
 

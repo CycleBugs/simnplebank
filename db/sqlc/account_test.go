@@ -3,8 +3,8 @@ package db
 import (
 	"context"
 	"database/sql"
+	"github.com/CycleBugs/simnplebank/util"
 	"github.com/stretchr/testify/require"
-	"gitlab.com/lonqhoanq311/simple-bank/util"
 	"testing"
 	"time"
 )
